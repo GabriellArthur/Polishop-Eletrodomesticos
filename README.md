@@ -1,0 +1,2 @@
+# Polishop-Eletrodomesticos
+Um sistema para vendas de produtos eletrodomésticos, podendo filtrá-los por marcas ou categorias, adicionar ou remover do carrinho, favoritos ou lista de presentes. O sistema também conta com as funcionalidades de um site convencional, podendo comprar no sistema e retirar na loja, entregar na sua residência e agendar entregas, pagar com dois cartões de crédito e compras á vista tem 5% de desconto.
